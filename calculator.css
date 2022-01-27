@@ -1,3 +1,9 @@
+divide
+.btn-primary {
+  background-color: #007cba;
+  color: white;
+}
+
 multiply
 
 footer
@@ -13,10 +19,14 @@ footer
 }
 
 master
+master
 .btn-primary {
   background-color: #007cba;
   color: white;
 }
+divide
+
+
 .calculator-btn {
   max-width: 300px;
   align-content: center;
@@ -26,6 +36,7 @@ multiply
 add
 
 
+master
 master
 master
 master
